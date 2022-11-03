@@ -1,0 +1,15 @@
+D:\Documents\Source\ProgrammingLanguage\ProgrammingLanguage\bin\Debug\net6.0\ProgrammingLanguage.exe
+D:\Documents\Source\ProgrammingLanguage\ProgrammingLanguage\bin\Debug\net6.0\ProgrammingLanguage.deps.json
+D:\Documents\Source\ProgrammingLanguage\ProgrammingLanguage\bin\Debug\net6.0\ProgrammingLanguage.runtimeconfig.json
+D:\Documents\Source\ProgrammingLanguage\ProgrammingLanguage\bin\Debug\net6.0\ProgrammingLanguage.dll
+D:\Documents\Source\ProgrammingLanguage\ProgrammingLanguage\bin\Debug\net6.0\ProgrammingLanguage.pdb
+D:\Documents\Source\ProgrammingLanguage\ProgrammingLanguage\obj\Debug\net6.0\ProgrammingLanguage.csproj.AssemblyReference.cache
+D:\Documents\Source\ProgrammingLanguage\ProgrammingLanguage\obj\Debug\net6.0\ProgrammingLanguage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Source\ProgrammingLanguage\ProgrammingLanguage\obj\Debug\net6.0\ProgrammingLanguage.AssemblyInfoInputs.cache
+D:\Documents\Source\ProgrammingLanguage\ProgrammingLanguage\obj\Debug\net6.0\ProgrammingLanguage.AssemblyInfo.cs
+D:\Documents\Source\ProgrammingLanguage\ProgrammingLanguage\obj\Debug\net6.0\ProgrammingLanguage.csproj.CoreCompileInputs.cache
+D:\Documents\Source\ProgrammingLanguage\ProgrammingLanguage\obj\Debug\net6.0\ProgrammingLanguage.dll
+D:\Documents\Source\ProgrammingLanguage\ProgrammingLanguage\obj\Debug\net6.0\refint\ProgrammingLanguage.dll
+D:\Documents\Source\ProgrammingLanguage\ProgrammingLanguage\obj\Debug\net6.0\ProgrammingLanguage.pdb
+D:\Documents\Source\ProgrammingLanguage\ProgrammingLanguage\obj\Debug\net6.0\ProgrammingLanguage.genruntimeconfig.cache
+D:\Documents\Source\ProgrammingLanguage\ProgrammingLanguage\obj\Debug\net6.0\ref\ProgrammingLanguage.dll
